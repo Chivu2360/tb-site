@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Reports</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>REPORTS</h1>
+
+<p>[DAY 1] Minor anomalies detected.</p>
+<p>[DAY 2] Systems unstable.</p>
+<p>[DAY 3] Evacuation advised.</p>
+
+<a href="index.html">Back</a>
+
+</body>
+</html>

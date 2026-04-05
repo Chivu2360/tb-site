@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Transmission Log</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>SYSTEM STATUS</h1>
+<p>Signal unstable...</p>
+
+<a href="news.html">View Reports</a>
+
+</body>
+</html>
